@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Alexandra Bashirian",
+      "id": 2
+    },
+    {
+      "name": "Virgil Von",
+      "id": 3
+    },
+    {
+      "name": "Homer Ankunding",
+      "id": 4
+    },
+    {
+      "name": "Salvador Herman",
+      "id": 5
+    },
+    {
+      "name": "Nora Durgan",
+      "id": 6
+    },
+    {
+      "name": "Melanie Kemmer",
+      "id": 7
+    },
+    {
+      "name": "Georgia Spencer",
+      "id": 8
+    },
+    {
+      "name": "Tina Wolff MD",
+      "id": 10
+    },
+    {
+      "name": "Damon Koch",
+      "id": 11
+    },
+    {
+      "name": "Colleen Kihn",
+      "id": 12
+    },
+    {
+      "name": "Frank Feil",
+      "id": 13
+    },
+    {
+      "name": "Mr. Orlando Schamberger",
+      "id": 14
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Licensed Rubber Chicken",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Keyboard",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Wooden Car",
+      "id": 22
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1200377934381056",
+      "id": 1
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3997797554585600",
+      "id": 4
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3392661671116800",
+      "id": 5
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2261288220622848",
+      "id": 6
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6362340620500992",
+      "id": 7
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1216298837082112",
+      "id": 9
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=202128670851072",
+      "id": 10
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=775540386562048",
+      "id": 11
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1478267053801472",
+      "id": 12
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5684363419189248",
+      "id": 13
+    }
+  ]
+}
